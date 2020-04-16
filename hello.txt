@@ -1,1 +1,2 @@
 Hello Git!
+This was edited in branch1
