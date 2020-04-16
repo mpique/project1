@@ -1,2 +1,3 @@
 Hello Git!
+<<<<<<< HEAD
 This was edited in branch1
